@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/ev node
 
 const fs = require('fs')
 const path = require('path')
